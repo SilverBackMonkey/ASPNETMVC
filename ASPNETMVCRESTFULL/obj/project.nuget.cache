@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0lKQrhXtfstvsO/sfXFUp/+HsgaQ3ml42F75Q88FICfk0AQjFBGXG2uCac3fNfrMbeRH7uyRcXFU0/IWPNg/Q==",
+  "success": true,
+  "projectFilePath": "D:\\lionmarksham\\git\\dotnet\\ASPNETMVCRESTFULL\\ASPNETMVCRESTFULL\\ASPNETMVCRESTFULL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
